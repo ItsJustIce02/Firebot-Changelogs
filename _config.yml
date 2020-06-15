@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: testtitle
 name: test
+github:
+  is_project_page: false
